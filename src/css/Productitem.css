@@ -1,0 +1,44 @@
+
+.Product{
+    margin-top:1rem;
+    margin-left: 1rem;
+    width: 18%;
+}
+.Product-item{
+    width: 100%;
+    margin:auto;
+    border-radius: 1rem;   
+}
+.Product-item > img{
+    width: 100%;
+    border-radius: 1rem 1rem 0 0 ;
+}
+.Product-item .content{ 
+    padding: 1rem;  
+    width: 100%;
+ 
+    height: 15rem !important; 
+    background-color: white;  
+    border-radius: 0 0 1rem 1rem ;
+}
+.Product-item .content span{
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    display: -webkit-box;
+}
+.Product-item .price{
+    background-color: white;
+    width: 20%;
+}
+.img-content{
+    background-color: #F1F3F9;
+    line-height: 1.5rem;
+    width: 100%;
+    border-radius:10%;
+    height: 1.5rem;
+}
+.Bottom-item{
+    width: 100%;
+    margin-top:3rem
+}

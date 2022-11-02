@@ -1,0 +1,27 @@
+
+.Headerbottom{
+    background-color:#E5101D;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin:auto;
+    width: 78%;
+}
+.Headerbottom a{
+    font-size: 2rem;
+    margin-right: 2rem;
+}
+.Headerbottom input{
+    margin-right: 2rem;
+}
+.list-item li{
+    list-style: none;
+    padding: 0.5rem 0;
+}
+.list-item li a{
+    font-size: 13px;
+    color: #7E868B;
+}
+.list-item li:hover{
+    background-color: #F2F3F4;
+}

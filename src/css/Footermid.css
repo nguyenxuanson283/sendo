@@ -1,0 +1,24 @@
+.Ft-mid{
+    display: flex;
+    width: 80%;
+    margin:auto;
+    padding: 2rem 0;
+}
+.link-tags{
+    color: black;
+    width: calc(100% /4);
+}
+.link-tags li{
+    list-style: none;
+}
+.link-tags li a{
+    color: black !important;
+    text-decoration: none;
+    font-size: 13px;
+}
+.link-tags li img{
+    width: 35%;
+    float: left;
+    margin-top: 2%;
+    margin-right: 3%;
+}

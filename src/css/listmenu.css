@@ -1,0 +1,25 @@
+.list-menu{
+    position: relative;
+    width: 30rem;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin:0.5rem;
+    padding: 0.5rem;
+    font-weight: 400 ;
+    border-right: none;
+}
+.list-menu ul li a{
+    color: black;
+}
+ul li:hover{
+    background-color: pink;
+}
+ul li a:hover{
+    color: red;
+}

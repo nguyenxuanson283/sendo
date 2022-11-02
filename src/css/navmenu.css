@@ -1,0 +1,30 @@
+.nav-menu-left{
+    width: 100%;
+    height: auto;
+    padding: 2rem;
+}
+.nav-menu-left h2{
+    text-align: center;
+    margin-left: 9.5rem;
+    font-weight: bold;
+    font-size: 18px;
+}
+.list-menu-nav{
+    background-color:#ffffff;
+    width: 75%;
+    margin-left: 10rem;
+    border-radius: 2%;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+    overflow-y: hidden!important;
+}
+
+Button{
+    border:none !important;
+}
+.content-back-list{
+    text-align: center;
+}
+.content-back-list a{
+    color: blue;
+}

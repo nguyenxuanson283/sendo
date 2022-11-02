@@ -1,0 +1,29 @@
+.Header-top{
+    background-color: #BC000B;
+    color: white;
+    width: 80%;
+    margin:auto;
+    display: flex;
+    justify-content: space-between;
+    height: 3rem;
+    align-items: center;
+}
+a{
+    color: white;
+    font-size: 1rem;
+}
+.Header-top-left{
+    display: flex;
+    justify-content: space-between;
+    width:30%;
+}
+.Header-login{
+    display: flex;
+    justify-content: space-between;
+}
+.border{
+    border-radius: 50%;
+    background-color: white;
+    margin-right: 0.3rem;
+    width: 2rem;
+}

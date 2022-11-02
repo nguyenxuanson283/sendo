@@ -1,0 +1,59 @@
+.App{
+  background-color: #F2F3F4;
+}
+.App-header {
+  background-color: #BC000B;
+ 
+}
+.App-link {
+  color: #61dafb;
+}
+.App-header-bottom{
+  background-color: #E5101D;
+  width: 100%;
+}
+.main{
+  background-color: #F2F3F4;
+  display: flex;
+  justify-content: flex-start;
+ 
+
+}
+.Nav-left{
+  max-width: 22%;
+  height: auto;
+  margin-left: -4rem;
+}
+.Product-name{
+  width: 69%;
+  margin-left: 3rem;
+}
+.Product-item{
+ width: 100%;
+}
+.Product-item-main{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  border: 1px solid #F2F3F4;
+  margin-left: 2rem;
+  
+}
+.Footer-top{
+  background-color: #FAFAFA;
+}
+.Footer-mid{
+  background-color: #F2F3F4;
+}
+.Footer-bottom{
+  background-color: #27343E;
+  color: white;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
